@@ -1,0 +1,890 @@
+Organization
+    _name: Boys and Girls Clubs of MA
+    Sites
+        Site
+            _name: Berkshire Partners Blue Hill Club
+            Web Site: http://www.bgcb.org/find-your-club/blue-hill-club/
+            Address
+                Street: 15 Talbot Ave
+                City:  Dorchester
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity                     
+        Site
+            _name: Charlestown Club
+            Web Site: http://www.bgcb.org/find-your-club/charlestown-club/
+            Address
+                Street: 15 Green Street
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise            
+        Site
+            _name: Condon Club
+            Web Site: http://www.bgcb.org/find-your-club/condon-club/
+            Address
+                Street: 200 D. Street
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise
+        Site
+            _name: Edgerley Family South Boston Club
+            Web Site: http://www.bgcb.org/find-your-club/edgerley-family-south-boston-club/
+            Address
+                Street: 230 W 6th Street
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise 
+        Site
+            _name: Franklin Hill Club
+            Web Site: http://www.bgcb.org/find-your-club/franklin-hill-club/
+            Address
+                Street: 1 Shandon Road
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise
+        Site
+            _name: Hennigan Club
+            Web Site: http://www.bgcb.org/find-your-club/hennigan-club/
+            Address
+                Street: 200 Heath St
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise                      
+        Site
+            _name: Jordan Club
+            Web Site: http://www.bgcb.org/find-your-club/jordan-club/
+            Address
+                Street: 30 Willow Street
+                City:  Chelsea
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography Club 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise                      
+        Site
+            _name: Mattapan Teen Center
+            Web Site: http://www.bgcb.org/find-your-club/mattapan-teen-center/
+            Address
+                Street: 10 Hazelton St
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise                      
+        Site
+            _name: Orchard Garden Club
+            Web Site: http://www.bgcb.org/find-your-club/orchard-garden-club/
+            Address
+                Street: 2 Dearbon Street
+                City:  Roxbury
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise                      
+        Site
+            _name: Sumner Club
+            Web Site: http://www.bgcb.org/find-your-club/sumner-club/
+            Address
+                Street: 15 Bastile Street
+                City:  Roslindale
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise                      
+        Site
+            _name: Yawkey Club Of Roxbury
+            Web Site: http://www.bgcb.org/find-your-club/yawkey-club-of-roxbury/
+            Address
+                Street: 115 Warren Street
+                City:  Boston
+                State: MA
+            Offerings
+              Offering
+                    _name: Homework Help
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: College Club
+                    Service: After School Program
+                    Service: Education
+              Offering
+                    _name: Rock Climbing
+                    Service: Exercise
+              Offering
+                    _name: Photography CLub 
+                    Service: After School Program
+              Offering
+                    _name: Dance Class
+                    Service: Exercise
+                    Service: Dance Lessons
+              Offering
+                    _name: Music Lessons
+                    Service: Music Lessons
+              Offering
+                    _name: Digital Music Studio
+                    Service: Music Lessons
+                    Service: Computer Application Training
+              Offering
+                    _name: Basketball Tournament
+                    Service: Basketball Playing
+                    Service: Exercise
+              Offering
+                    _name: Swim Team
+                    Service: Exercise
+                    Service: Swimming For Fun
+              Offering
+                    _name: Pool Open/Family Swim Times
+                    Service: Swimming For Fun
+                    Service: Exercise
+              Offering
+                    _name: Swim Lessons
+                    Service: Swimming Lessons
+                    Service: Exercise
+              Offering
+                    _name: Keystone Club
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Young Leaders 
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Women
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity
+              Offering
+                    _name: Strong Girls
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity  
+              Offering
+                    _name: Youth of the Year
+                    Service: Leadership Training
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Club Tech
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity    
+              Offering
+                    _name: CyberSummit
+                    Service: Computer Programming Class
+                    Service: Extra-Curricular Activity 
+              Offering
+                    _name: Weight Training
+                    Service: Physical Conditioning Training
+                    Service: Excercise                      
